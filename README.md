@@ -9,7 +9,6 @@ This project was a part of the Samsung Artificial Intelligence Cohort 2022. The 
 
 You can run the full project in Google Colab by clicking the link below:
 
-[Open in Google Colab](https://colab.research.google.com/drive/1oHtW21Qw6TuANq8Yql21dnc981P-ufF)
-
+https://colab.research.google.com/drive/1oHtW21Qw6TuANq8Yql21dnc981P-ufFt
 
 
